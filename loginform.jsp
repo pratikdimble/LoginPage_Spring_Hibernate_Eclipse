@@ -89,10 +89,7 @@
 				<div class="right-w3l">
 					<input type="submit" value="Login">
 				</div>
-				<div class="forgot-w3l">
-					<a href="#">Forgot Password?</a>
-					<a href="master_login.jsp">Master Login?</a>
-				</div>
+
 			</form>
 		</div>
 	</div>
